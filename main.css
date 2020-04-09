@@ -1,0 +1,7 @@
+.images-container{
+    display: flex;
+    justify-content: center;
+}
+.images-wrapper{
+width: 60px;
+}
